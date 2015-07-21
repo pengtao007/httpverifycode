@@ -26,3 +26,6 @@ Http brute with simple verify code!
 
 (6)you can set the max threads and retry count in __init__,default are 10 threads and retry 5 times
 
+3、in the lib\parse_verifycode.py,you can set the verify code url to do a test for checking the identified accuracy.
+
+
